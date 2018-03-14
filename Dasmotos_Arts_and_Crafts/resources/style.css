@@ -1,10 +1,10 @@
+body {
+    font-family: Helvetica;
+}
+
 .price {
     color: blue;
     font-weight: bold;
-}
-
-html {
-    font-family: Helvetica;
 }
 
 h1 {
